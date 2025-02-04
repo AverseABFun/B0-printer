@@ -4,7 +4,7 @@ The requirements, both self-imposed and external:
 - Cost 300USD or less
 - Have at least a 300x300x300mm print volume
 - Have a heated bed
-- Support at least PLA filament
+- Support at least PLA filament and preferably PETG too
 - Use standard 1.75mm filament
 - Have a decent lifetime(i.e. at least a year or two with maintence when small things go wrong)
 - Be FULLY open source

@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/978c5c72-6eba-43ea-ac3d-481bca61744f)The B0lta will be a 3D printer designed to have a large print volume(300x300x300mm) and operate at a reasonably fast speed. It will run klipper on a Raspberry Pi Zero W and BTT E3 SKR MINI V3.0. This page serves as documentation and a journal for the project.
+The B0lta will be a 3D printer designed to have a large print volume(300x300x300mm) and operate at a reasonably fast speed. It will run klipper on a Raspberry Pi Zero W and BTT E3 SKR MINI V3.0. This page serves as documentation and a journal for the project.
 
 The requirements, both self-imposed and external:
 - Cost 300USD or less

@@ -1,3 +1,8 @@
+Made by: @arthur
+Repository link: https://github.com/AverseABFun/B0lta
+Total hours so far: 6
+I have a 3D printer
+
 The B0lta will be a 3D printer designed to have a large print volume(300x300x300mm) and operate at a reasonably fast speed. It will run klipper on a Raspberry Pi Zero W and BTT E3 SKR MINI V3.0. This page serves as documentation and a journal for the project.
 
 The requirements, both self-imposed and external:
